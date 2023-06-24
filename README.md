@@ -1,4 +1,4 @@
-# Maths-Tutor-Website
+# Math-Tutor
 This is a web development project.
 I will be updating the ReadMe with time...
 
