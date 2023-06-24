@@ -1,3 +1,3 @@
 # maths-tutor
 
-#A big acknow;edgment to my tutor and mentor, Issam Badu, Development Island, UK.
+#A big acknowledgement to my tutor and mentor, Issam Badu, Development Island, UK. Thank you, sir.
